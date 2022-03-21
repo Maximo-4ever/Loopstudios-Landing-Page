@@ -75,9 +75,10 @@ body {
     flex-direction: row;
   }
   #navbar {
-    padding-top: 4em;
-    padding-left: calc(10em + 28px);
-    padding-right: calc(10em + 28px);
+    width: 1340px;
+    padding: 2.5em 28px 28px;
+    right: 0;
+    margin: auto;
   }
   .navbar__title {
     font-size: 2.9em;
